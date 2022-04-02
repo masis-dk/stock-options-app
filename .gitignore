@@ -1,0 +1,7 @@
+/.idea/
+/node_modules/
+/.env
+_index.js
+test.js
+response.json
+response_two.json

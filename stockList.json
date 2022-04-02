@@ -1,0 +1,257 @@
+{
+  "AC.XPAR": {
+    "name": "Accor"
+  },
+  "ADP.XPAR": {
+    "name": "Aéoroport De Paris"
+  },
+  "AF.XPAR": {
+    "name": "Air France"
+  },
+  "AI.XPAR": {
+    "name": "Air Liquide"
+  },
+  "AIR.XPAR": {
+    "name": "Airbus"
+  },
+  "ABIO.XPAR": {
+    "name": "Albio"
+  },
+  "ALD.XPAR": {
+    "name": "ALD"
+  },
+  "ALO.XPAR": {
+    "name": "Alstom"
+  },
+  "ATE.XPAR": {
+    "name": "Alten"
+  },
+  "AMUN.XPAR": {
+    "name": "Amundi"
+  },
+  "AKE.XPAR": {
+    "name": "Arkema"
+  },
+  "ATO.XPAR": {
+    "name": "Atos"
+  },
+  "CS.XPAR": {
+    "name": "Axa"
+  },
+  "BB.XPAR": {
+    "name": "BIC"
+  },
+  "BIM.XPAR": {
+    "name": "Biomerieux"
+  },
+  "BNP.XPAR": {
+    "name": "BNP"
+  },
+  "BVI.XPAR": {
+    "name": "Bureau Veritas"
+  },
+  "CAP.XPAR": {
+    "name": "Cap Gemini"
+  },
+  "CA.XPAR": {
+    "name": "Carrefour"
+  },
+  "CO.XPAR": {
+    "name": "Casino"
+  },
+  "CGG.XPAR": {
+    "name": "CGG"
+  },
+  "CNP.XPAR": {
+    "name": "CNP"
+  },
+  "COFA.XPAR": {
+    "name": "Coface"
+  },
+  "ACA.XPAR": {
+    "name": "Crédit Agricole"
+  },
+  "BN.XPAR": {
+    "name": "Danone"
+  },
+  "DBG.XPAR": {
+    "name": "Derichebourg"
+  },
+  "EDEN.XPAR": {
+    "name": "Edenred"
+  },
+  "EDF.XPAR": {
+    "name": "EDF"
+  },
+  "FGR.XPAR": {
+    "name": "Eiffage"
+  },
+  "ELIOR.XPAR": {
+    "name": "Elior"
+  },
+  "ELIS.XPAR": {
+    "name": "Elis"
+  },
+  "ENGI.XPAR": {
+    "name": "Engie"
+  },
+  "ERA.XPAR": {
+    "name": "Eramet"
+  },
+  "EL.XPAR": {
+    "name": "Essilor"
+  },
+  "RF.XPAR": {
+    "name": "Eurazeo"
+  },
+  "ERF.XPAR": {
+    "name": "Eurofins Scientific"
+  },
+  "ETL.XPAR": {
+    "name": "Eutelsat"
+  },
+  "EO.XPAR": {
+    "name": "Faurecia"
+  },
+  "GFC.XPAR": {
+    "name": "Gecina"
+  },
+  "GET.XPAR": {
+    "name": "Getlink"
+  },
+  "ICAD.XPAR": {
+    "name": "Icade"
+  },
+  "NK.XPAR": {
+    "name": "Imerys"
+  },
+  "ITP.XPAR": {
+    "name": "Interparfums"
+  },
+  "IPN.XPAR": {
+    "name": "Ipsen"
+  },
+  "DEC.XPAR": {
+    "name": "JC Decaux"
+  },
+  "LR.XPAR": {
+    "name": "Legrand"
+  },
+  "OR.XPAR": {
+    "name": "L'Oreal"
+  },
+  "MDM.XPAR": {
+    "name": "Maison Du Monde"
+  },
+  "MCPHY.XPAR": {
+    "name": "MCPHY Energy"
+  },
+  "ML.XPAR": {
+    "name": "Michelin"
+  },
+  "NEOEN.XPAR": {
+    "name": "NEOEN"
+  },
+  "NEX.XPAR": {
+    "name": "NEXANS"
+  },
+  "ORA.XPAR": {
+    "name": "ORANGE"
+  },
+  "RI.XPAR": {
+    "name": "PERNOD RICARD"
+  },
+  "POM.XPAR": {
+    "name": "Plastic Omnium"
+  },
+  "PUB.XPAR": {
+    "name": "Publicis"
+  },
+  "RCO.XPAR": {
+    "name": "Remy Cointreau"
+  },
+  "RNO.XPAR": {
+    "name": "Renault"
+  },
+  "RXL.XPAR": {
+    "name": "Rexel"
+  },
+  "RUI.XPAR": {
+    "name": "Rubis"
+  },
+  "SAF.XPAR": {
+    "name": "Safran"
+  },
+  "SGO.XPAR": {
+    "name": "Saint Gobain"
+  },
+  "DIM.XPAR": {
+    "name": "Sartorius Sted Bio"
+  },
+  "SU.XPAR": {
+    "name": "Schneider Eletric"
+  },
+  "SCR.XPAR": {
+    "name": "SCOR"
+  },
+  "SK.XPAR": {
+    "name": "SEB"
+  },
+  "GLE.XPAR": {
+    "name": "Société Générale"
+  },
+  "SW.XPAR": {
+    "name": "Sodexo"
+  },
+  "SOI.XPAR": {
+    "name": "Soitec"
+  },
+  "S30.XPAR": {
+    "name": "Solutions 30 SE"
+  },
+  "SOLB.XBRU": {
+    "name": "Solvay"
+  },
+  "SOP.XPAR": {
+    "name": "Sopra Steria"
+  },
+  "SPIE.XPAR": {
+    "name": "SPIE"
+  },
+  "STLA.XPAR": {
+    "name": "Stellantis"
+  },
+  "STM.XPAR": {
+    "name": "ST Microeletronics"
+  },
+  "HO.XPAR": {
+    "name": "Thales"
+  },
+  "UBI.XPAR": {
+    "name": "Ubisoft"
+  },
+  "FR.XPAR": {
+    "name": "Valeo"
+  },
+  "VK.XPAR": {
+    "name": "Vallourec"
+  },
+  "VLA.XPAR": {
+    "name": "Valneva"
+  },
+  "VIE.XPAR": {
+    "name": "Veolia"
+  },
+  "VRLA.XPAR": {
+    "name": "Verallia"
+  },
+  "DG.XPAR": {
+    "name": "Vinci"
+  },
+  "VIRP.XPAR": {
+    "name": "Virbac"
+  },
+  "ALCLS.XPAR": {
+    "name": "Cellectis"
+  }
+}
